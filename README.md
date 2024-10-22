@@ -1,10 +1,10 @@
-# ESG: Measurement-guided support of workforce well-being
+# Measurement-guided support of workforce well-being
 
-Short url to this folder: https://ebmgt.github.io/ESG
+Short url to this folder: https://ebmgt.github.io/Management_measurement
 
-ESG stands for Environmental, social and corporate governance and the importance of these corporate metrics was initially promoted by U.N. Secretary General Kofi Annan ([details](https://www.wikidoc.org/index.php/Industrial_and_organizational_psychology#Environmental,_social_and_corporate_governance_(ESG))). "Social" includes workforce conditions. 
+[Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data allows identifying companies that are successful with their workforces.  This could be considered a de facto example of Environmental, social and corporate governance (ESG) reporting ([details](https://www.wikidoc.org/index.php/Industrial_and_organizational_psychology#Environmental,_social_and_corporate_governance_(ESG))). "Social" includes workforce conditions. 
 
-[Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data allows identifying companies that are successful with their workforces.  The plot shows that Google and Microsoft are two examples. Below the plot are descriptions of Google's and Microsoft's measurement-guided interventions to optimize their workplaces.
+The plot below shows that Google and Microsoft are two examples. Below the plot are descriptions of Google's and Microsoft's measurement-guided interventions to optimize their workplaces.
 
 * ***To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/HealthCare.md)***. The experience at the Mayo Clinic supports the work of Google and Microsoft.
 * To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-05-02.png). This plot suggests that addressing workforce well-being does not conflict with profit.
@@ -35,10 +35,5 @@ In this example, Microsoft used employee surveys to identify a hot-spot within t
 #### The role of senior leadership
 > The first—and most important step—is to engage the CEO and the senior leadership team. Microsoft’s appointment of Satya Nadella as CEO was a significant milestone for the company, and his role in culture change has been instrumental. Having a CEO and senior leaders who champion and embody culture change helps set the tone and provides a path for employees to follow ([Hogan [Chief People Officer at Microsoft], 2017](https://www.i4cp.com/interviews/kathleen-hogan-how-microsoft-is-transforming-its-culture)).
 
-### ESG metrics
-The currently agreed upon measures are very basic. Per https://www.sasb.org, metrics are:
-* The entity shall separately disclose voluntary and involuntary employee turnover for physicians, for non-physician health care practitioners, and for all other employees.
-* For each category of employees, the entity shall disclose the annual voluntary turnover.
-* For each category of employees, the entity shall disclose the annual involuntary turnover.
-
-More items are needed to measure. Suggestions of validated, relevant questions of workforce are at https://ebmgt.github.io/survey-inventory/ 
+### Metrics
+Suggestions of validated, relevant questions of workforce well-being and perception of management are at https://ebmgt.github.io/survey-inventory/ 
