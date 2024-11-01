@@ -32,7 +32,7 @@ In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below).
 #### Hotspotting to identify and help less effective managers within a large healthcare system
 > Although anonymous at the level of the individual, results are aggregated at the work unit level (eg, division/department) to allow executive leadership to focus attention and resources where they are most needed ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)). 
 
-> Among the 7 Mayo Clinic work units with analyzable data that went through this process after the 2013 survey...6 of these 7 work units no longer met the criteria initially used to identify high-opportunity work units. 
+> Among the 7 Mayo Clinic work units with analyzable data [with burnout rates higher than the national average and satisfaction below the 50th percentile relative to other US organizations] that went through this process after the 2013 survey...6 of these 7 work units no longer met the criteria initially used to identify high-opportunity work units. 
  ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627))
 
 #### Brightspotting to identify tactics of successful departments
