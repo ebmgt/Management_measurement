@@ -10,7 +10,7 @@ https://www.glassdoor.com/Award/Top-CEOs-LST_KQ0,8.htm
 Does this plot show that ESG reporting, or internal reporting if accompanied by focused departmental and management support, can identify healthcare institutions with successful workforce environments?
 -->
 
-Back to the main page: https://ebmgt.github.io/ESG
+Back to the main page: https://ebmgt.github.io/Management_measurement
 
 At the bottom of this page is a plot of [Glassdoor rankings](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) by employees of:
 * Two large companies, ${\color{#34a853}Google}$ and ${\color{#02a4ef}Microsoft}$, that serially measure well-being and use the results.
@@ -22,24 +22,24 @@ The plots suggest that:
 * Measurement-guided interventions on workforce well-being are likely very important but we do not know if they are required as we do not know that *all* high ranking companies use this strategy. They may not a panacea as suggested by Google's recent falling in rankings despite presumed continuing use of measurement-guided interventions. However, Google is still ranked higher than all large health care organizations monitored by Glassdoor.
 
 ### The Mayo Clinic measurement-guided interventions in a large clinical setting
-While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specificity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
 
-The Mayo Clinic started serially measuring well-being in 2010
+#### 1. Serial measurement of assessments by the frontline of the organization and management 
+Like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
 > We began systematically measuring burnout using standardized instruments in 2010...Historically, we assessed these dimensions every 24 months, but we switched to annual assessment in 2016 ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)).
 
 In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below). The burnout rate among physicians in the Mayo Clinic for 2016 was 33% by Maslach Burnout Inventory (high EE or high DP subscale) (Shanafelt. Mayo Clin Proc. 2017 PMID: [27871627](HTTP://pubmed.gov/27871627)). At that time the national rate for physician burnout was 44% and the rate for the general public was 28%  (Shanafelt. Mayo Clin Proc. 2019 PMID: [30803733](HTTP://pubmed.gov/30803733)) The Mayo was also in the top 50 for the years 2017 (44) and 2020 (28) but these are not plotted as they are isolated years. 
 
-#### Hotspotting to identify and help less effective managers within a large healthcare system
+#### 2. Hotspotting to identify and help less effective managers within a large healthcare system
 > Although anonymous at the level of the individual, results are aggregated at the work unit level (eg, division/department) to allow executive leadership to focus attention and resources where they are most needed ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)). 
 
 > Among the 7 Mayo Clinic work units with analyzable data [with burnout rates higher than the national average and satisfaction below the 50th percentile relative to other US organizations] that went through this process after the 2013 survey...6 of these 7 work units no longer met the criteria initially used to identify high-opportunity work units. 
  ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627))
 
-#### Brightspotting to identify tactics of successful departments
+#### 3. Brightspotting to identify tactics of successful departments
 > "...we doubled down on lessons from departments that had done well with leadership development so we could make that an institutional model."
 ([Swensen, 2020](https://www.acr.org/-/media/ACR/Files/RLI/Podcasts/Episode-25-Swensen-Final-Transcript.pdf))
 
-#### The role of senior leadership
+#### 4. Senior leadership's role
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
 ([Wright & Katz, 2018](https://pubmed.gov/29365301))
 
@@ -67,7 +67,7 @@ In 2019, the burnout rate rose and in 2019, the Glassdoor ranking for St Jude fe
 In 2015, the [2016-2021 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted a new process to gather and prioritize issues of employees:
 > The CEO will initiate monthly town hall meetings to solicit input on key institutional efforts and issues. This new program will incorporate a page on the St. Jude intranet for employees to submit questions, rank the priority of the questions and see what questions will be discussed at upcoming town hall meetings.
 
-#### The role of senior leadership
+#### Senior leadership's role
 St Jude appointed a new CEO, James Downing, in 2014, a few years before their rise the Glassdoor rankings. According to a St Jude [news release](https://www.stjude.org/media-resources/news-releases/2018-medicine-science-news/st-jude-ceo-james-downing-ranked-no-5-of-glassdoors-top-100-ceos.html) noted
 > "Under Downing’s leadership, St. Jude has increased employee feedback channels and forums, resulting in more innovation and connectivity across the Memphis-based campus. Downing leads monthly Town Hall and Blueprint Series all-employee meeting opportunities that encourage employees to share ideas and connect with leadership."
 
