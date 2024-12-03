@@ -25,7 +25,7 @@ The plots suggest that:
 
 #### 1. Serial measurement of assessments by the frontline of the organization and management 
 Like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
-> We began systematically measuring burnout using standardized instruments in 2010...Historically, we assessed these dimensions every 24 months, but we switched to annual assessment in 2016 ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)).
+> We began systematically measuring burnout using standardized instruments in 2010...As part of its efforts to foster a cohesive organization, Mayo Clinic surveys its physicians, scientists, allied health staff, and all other employees approximately every 24 months. This _all-staff_ survey is administered by an independent consulting organization...Historically, we assessed these dimensions every 24 months, but we switched to _annual_ assessment in 2016 ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)). 
 
 In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below). The burnout rate among physicians in the Mayo Clinic for 2016 was 33% by Maslach Burnout Inventory (high EE or high DP subscale) (Shanafelt. Mayo Clin Proc. 2017 PMID: [27871627](HTTP://pubmed.gov/27871627)). At that time the national rate for physician burnout was 44% and the rate for the general public was 28%  (Shanafelt. Mayo Clin Proc. 2019 PMID: [30803733](HTTP://pubmed.gov/30803733)) The Mayo was also in the top 50 for the years 2017 (44) and 2020 (28) but these are not plotted as they are isolated years. 
 
