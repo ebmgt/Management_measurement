@@ -21,7 +21,7 @@ The plots suggest that:
 * The gains require sustained work and high level support. This is shown in the fall of the Mayo Clinic data with the departure of relevant leaders.
 * Measurement-guided interventions on workforce well-being are likely very important but we do not know if they are required as we do not know that *all* high ranking companies use this strategy. They may not a panacea as suggested by Google's recent falling in rankings despite presumed continuing use of measurement-guided interventions. However, Google is still ranked higher than all large health care organizations monitored by Glassdoor.
 
-### The Mayo Clinic measurement-guided interventions in a large clinical setting
+### The Mayo Clinic measurement-guided interventions in a large clinical setting, 2014 and 2015 to 2020
 
 #### 1. Serial measurement of assessments by the frontline of the organization and management 
 Like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
@@ -45,7 +45,7 @@ In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below).
 
 Noseworthy retired in 2018, Shanafelt left the Mayo Clinic in 2017, and Swensen became Professor Emeritus in 2018. <!-- https://moln.org/news/431461/Nurses-as-Leaders-Broad-Acceptance-Room-to-Grow.htm -->
 
-### St Jude data interventions in a smaller clinical setting
+### St Jude data interventions in a smaller clinical setting, 2018 to present
 St Jude is a much smaller clinical site than the Mayo Clinic and has less than 80 beds ([source](https://www.stjude.org/about-st-jude/unique-operating-model.html#:~:text=As%20one%20of%20the%20largest,since%20we%20opened%20the%20hospital)).
 <!--
 Probably not influencing rates of burnout at St Jude because of lack of temporal association, St Jude started using the AHRQ SOPS Hospital Survey in 2009 and biennially since ([AHRQ reports](https://www.ahrq.gov/news/newsroom/case-studies/cquips1402.html); [St Jude website](https://www.stjude.org/treatment/services/clinics-and-services/patient-safety.html)). In 2017 the [AHRQ reported](https://www.ahrq.gov/news/newsroom/case-studies/201709.html) that St Jude used AHRQ SOPS Hospital Survey to gather workforce feedback to change workflows to improve patient safety.
