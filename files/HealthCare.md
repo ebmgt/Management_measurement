@@ -10,7 +10,7 @@ https://www.glassdoor.com/Award/Top-CEOs-LST_KQ0,8.htm
 Does this plot show that ESG reporting, or internal reporting if accompanied by focused departmental and management support, can identify healthcare institutions with successful workforce environments?
 -->
 
-Back to the main page: https://ebmgt.github.io/Management_measurement
+Back to the main page: [https://ebmgt.github.io/Management_measurement](https://github.com/ebmgt/Management_measurement/)
 
 At the bottom of this page is a plot of [Glassdoor rankings](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) by employees of:
 * Two large companies, ${\color{#34a853}Google}$ and ${\color{#02a4ef}Microsoft}$, that serially measure well-being and use the results.
