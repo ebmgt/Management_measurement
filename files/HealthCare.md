@@ -39,6 +39,8 @@ In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below).
 > "...we doubled down on lessons from departments that had done well with leadership development so we could make that an institutional model."
 ([Swensen, 2020](https://www.acr.org/-/media/ACR/Files/RLI/Podcasts/Episode-25-Swensen-Final-Transcript.pdf))
 
+The Mayo also quantified the assessment by physician direct reports of attributes of successful managers(PMID: [25796117](https://pubmed.gov/25796117)). The resulting survey is conceptually similar to [Google's Manager Feedback Survey](https://rework.withgoogle.com/en/guides/managers-give-feedback-to-managers#try-googles-manager-feedback-survey). In addition, although without formal analysis, the Mayo identified key questions for managers of physicians to guide annual reviews (PMID: [28651438](https://pubmed.gov/28651438)). Subsequently, Freeland proposed additional questions based on expert experience (PMID: [39983044](https://pubmed.gov/39983044)).
+
 #### 4. Senior leadership's role
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
 ([Wright & Katz, 2018](https://pubmed.gov/29365301))
