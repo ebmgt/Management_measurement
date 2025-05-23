@@ -45,6 +45,10 @@ The Mayo also quantified the assessment by physician direct reports of attribute
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
 ([Wright & Katz, 2018](https://pubmed.gov/29365301))
 
+> One of use (JHN) has incorporated goals related to these parameters into the annual CEO performance scorecard evaluated by the Mayo Clinic Board of Trustees. Specifically, this goal is to have at least 50% of high-opportunity work units improve to the extent that they no longer qualify as high-opportunity units within 12 months.
+([Shanafelt and Noseworthy. 2017 PMID 27871627](https://pubmed.gov/27871627))
+
+#### Departure of senior leadership
 Noseworthy retired in 2018, Shanafelt left the Mayo Clinic in 2017, and Swensen became Professor Emeritus in 2018. <!-- https://moln.org/news/431461/Nurses-as-Leaders-Broad-Acceptance-Room-to-Grow.htm -->
 
 ### St Jude data interventions in a smaller clinical setting, 2018 to present
