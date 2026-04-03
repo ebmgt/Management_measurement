@@ -10,6 +10,8 @@ https://www.glassdoor.com/Award/Top-CEOs-LST_KQ0,8.htm
 Does this plot show that ESG reporting, or internal reporting if accompanied by focused departmental and management support, can identify healthcare institutions with successful workforce environments?
 -->
 
+Shortcut to this page: https://ebmgt.github.io/glassdoor
+
 Back to the main page: [https://ebmgt.github.io/Management_measurement](https://github.com/ebmgt/Management_measurement/)
 
 This is a plot of [Glassdoor rankings](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) for learge healthcare providers that have had successive years in the Glassdoor top 20, compared with Google and Microsoft. Glassdoor rankings have been validated against job satisfaction with the [FEVS data](https://www.opm.gov/fevs/) with a r = 0.56 ([Landers et al. 2019](https://doi.org/10.25035/pad.2019.03.006)).
@@ -87,6 +89,7 @@ Sloan-Kettering had successive years in the Glassdoor top 50 ranking peaking at 
 * Events: 2019 [Chief medical officer leaves company after conflict of interest discovery](https://www.nytimes.com/2019/01/07/health/baselga-sloan-kettering-astrazeneca.html)
 
 ### Houston Methodist 2021 - present
-Houston Methodist has successive years in the Glassdoor top 50 ranking peaking at #9 in 2026. It is unclear from peer-reviewed publications what may have caused this during those years.
+Houston Methodist has successive years in the Glassdoor top 50 ranking peaking at #9 in 2026. Components of their work have been described by Phillips et al (NEJM Catalyst. 2021. [DOI: 10.1056/CAT.21.0314](https://doi.org/10.1056/CAT.21.0314)) and Bourassa et al (J Psych Practice 2024. [PMID 38819243](https://pubmed.gov/38819243)).
 
-More items should be measured such as antecedents of engagement and satisfaction to help focus interventions. Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
+---
+More items can be measured, such as antecedents of engagement ([Schaufeli's definition](https://doi.org/10.1027/1015-5759/a000430)) and thriving ([Spreitzer's definition](https://doi.org/10.1002/job.756)) to help focus interventions to create the [reciprocating cycle between well-being and organizational performance](https://pubmed.gov/33051836). Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
